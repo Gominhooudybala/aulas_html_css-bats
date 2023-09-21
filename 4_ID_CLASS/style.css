@@ -9,3 +9,11 @@ p {
     font-size: 20px;
     line-height: 36px;
 }
+
+h2 {
+    color: crimson;
+}
+
+.fundo-azul {
+    background: #290ce7;
+}
