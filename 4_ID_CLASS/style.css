@@ -1,3 +1,11 @@
+#titulo-id {
+    color: purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
@@ -17,3 +25,14 @@ h2 {
 .fundo-azul {
     background: #290ce7;
 }
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
+}
+
+/*.especificidade.*/
